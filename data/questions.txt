@@ -1,0 +1,36 @@
+## Question 1
+Find all co-citations (that is, when they appear in the same citation block) of the following three papers:
+    1. M. Muger, From subfactors to categories and topology ii. the quantum double of tensor categories and subfactors.
+    2. A. Davydov, M. Muger, D. Nikshych, and V. Ostrik, The witt group of non-degenerate braided fusion categories.
+    3. A. Davydov and T. Booker, Commutative Algebras in Fibonacci Categories.
+
+## Question 2
+$SU(6)_1$ is a non-abelian anyon condensation of two factors. Write down all the conformal weights for both factors.
+
+## Question 3
+Write down the condensing algebra object for $SU(N)_q$ anyon condensation for the case $N=6$ and $q=1$
+
+## Question 4 
+Write down all the condensing algebras for the spin group example from Appendix C
+
+## Question 5
+Write down the formula to which a couple of operations were applied to get $(G_2)_1$ x $SU(2)_{−3}\approx (G_2)_1$ x  $(G_2)_{−1} \times SU(2)_1$
+
+## Question 6
+Write down the formula for the duality to which condensing the Drinfeld center of the Fibonacci anyons leads.
+
+## Question 7
+Write down the formula for the naive proposal that led to a degenerate CFT with multiple vacua 
+
+## Question 8
+Write down the equation for the main duality for unitary groups via non-abelian anyon condensation
+
+## Question 9
+Write down the algebra object for the particular case $k = N = 2$ of the equation from  previous question in terms of the spins for each of the factor's representations.
+
+## Question 10
+The next-to-last picture of the paper has three parts. Describe each of them.
+
+## Question 11
+What paper(s) is (are) referenced the most by the current paper?
+
