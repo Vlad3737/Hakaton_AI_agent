@@ -10,6 +10,7 @@ from dotenv import load_dotenv
 from langchain_gigachat.chat_models import GigaChat
 
 from src.utils.baseline import make_baseline_submission
+from src.agent.graph import main as agent_main
 
 DATA_DIR = Path("data")
 OUTPUT_DIR = Path("output")
@@ -38,9 +39,7 @@ def main() -> None:
     load_dotenv()
     # Базовая заглушка: создаёт `output/answers.txt` с тем же числом пунктов, что вопросов.
     # Замените на реального агента.
-
-    make_baseline_submission()
-    # agent_main(data_dir=DATA_DIR, output_dir = OUTPUT_DIR)
+    agent_main(data_dir=DATA_DIR, output_dir = OUTPUT_DIR)
 
     # _ = build_gigachat({})
     # your_agent.run(_)
